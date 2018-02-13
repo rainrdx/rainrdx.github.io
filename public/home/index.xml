@@ -22,15 +22,6 @@
     </item>
     
     <item>
-      <title>Selected Publications</title>
-      <link>http://www.rickshang.com/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
-      
-      <guid>http://www.rickshang.com/home/publications_selected/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Recent Publications</title>
       <link>http://www.rickshang.com/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0500</pubDate>
@@ -63,25 +54,6 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>http://www.rickshang.com/home/projects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Custom Section</title>
-      <link>http://www.rickshang.com/home/teaching/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.rickshang.com/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
-    </item>
-    
-    <item>
-      <title>Tags</title>
-      <link>http://www.rickshang.com/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0500</pubDate>
-      
-      <guid>http://www.rickshang.com/home/tags/</guid>
       <description></description>
     </item>
     
