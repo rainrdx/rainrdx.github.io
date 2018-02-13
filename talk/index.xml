@@ -12,5 +12,23 @@
 	<atom:link href="http://www.rickshang.com/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Measuring in the Dark: Positron Emission Tomography and Neural Activation</title>
+      <link>http://www.rickshang.com/talk/wishkabibble/</link>
+      <pubDate>Tue, 13 Feb 2018 00:39:03 -0600</pubDate>
+      
+      <guid>http://www.rickshang.com/talk/wishkabibble/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Scientific Detection Instruments: the Case of Positron Emission Tomograph</title>
+      <link>http://www.rickshang.com/talk/ishsspb/</link>
+      <pubDate>Tue, 13 Feb 2018 00:36:35 -0600</pubDate>
+      
+      <guid>http://www.rickshang.com/talk/ishsspb/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

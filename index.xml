@@ -10,5 +10,102 @@
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Measuring in the Dark: Positron Emission Tomography and Neural Activation</title>
+      <link>http://www.rickshang.com/talk/wishkabibble/</link>
+      <pubDate>Tue, 13 Feb 2018 00:39:03 -0600</pubDate>
+      
+      <guid>http://www.rickshang.com/talk/wishkabibble/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluating Scientific Detection Instruments: the Case of Positron Emission Tomograph</title>
+      <link>http://www.rickshang.com/talk/ishsspb/</link>
+      <pubDate>Tue, 13 Feb 2018 00:36:35 -0600</pubDate>
+      
+      <guid>http://www.rickshang.com/talk/ishsspb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neuroimaging From the 1950s to 1995: A Philosophical Account of Technique-Driven Scientific Change</title>
+      <link>http://www.rickshang.com/project/neuroimaging/</link>
+      <pubDate>Tue, 13 Feb 2018 00:28:34 -0600</pubDate>
+      
+      <guid>http://www.rickshang.com/project/neuroimaging/</guid>
+      <description>&lt;p&gt;No single technological advance in the last 50 years has had a more significant and lasting influence on the structure of cognitive neuroscience than the development of functional neuroimaging.
+This spectacular interdisciplinary achievement, combining physics, neurology, radiology, physiology, hemodynamics, engineering, and cognitive science, allowed scientists to image the activity of the brain during the performance of cognitive tasks.
+This allowed scientists to draw more exacting inferences about the localization of cognitive functions in the brain, opening vast expanses of once hidden mental terra incognita to imaging technology long-valued in the medical sciences.
+Especially with the shift from Positron Emission Tomography (PET, which requires injection of radionuclides) to functional Magnetic Resonance Imaging (fMRI, which does not), this technology spread rapidly outside a few key hubs in medical centers to neuroscience and psychology departments the world over.
+And from there, the technology has spread to the social sciences and humanities at the same time as they increasingly appeared on the nightly news and in twitter feeds.&lt;/p&gt;
+
+&lt;p&gt;In this dissertation, I use the history of functional neuroimaging as a case study for a philosophical account of technique-driven scientific change.
+The achievement of functional neuroimaging leaves a number of questions for historians and philosophers of science.
+First, how did scientists originally come up a new technique such as PET?
+Second, how did scientists navigate a highly competitive market and find an audience for a nascent, immature technique?
+Three, how did a new technique, along with its associated research programs, spread out across disciplinary and national boundaries, stir wide-spread interest in both academic and clinical communities, and create more research programs using neuroimaging?
+In order to answer all three questions, I draw analogical insight from contemporary advances in evolutionary theory.
+In general, I argue that the contemporary evolutionary theory, especially work done on modularity, niche construction, and phenotypical plasticity, provides resources for modeling the mechanisms driving the technique-driven scientific change illustrated in the history of neuroimaging.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exploratory Invention: The Pre-history of Positron Emission Tomography 1950s-1975</title>
+      <link>http://www.rickshang.com/publication/exploratory_invention/</link>
+      <pubDate>Tue, 13 Feb 2018 00:25:10 -0600</pubDate>
+      
+      <guid>http://www.rickshang.com/publication/exploratory_invention/</guid>
+      <description>&lt;p&gt;Functional neuroimaging is not a theory-driven research program, in the sense that a systematic theory of cognition served as the basis for neuroimaging.
+In fact, forty years after the invention of functional neuroimaging, scientists are not much closer to a systematic theory of cognition.
+And after forty years of using functional neuroimaging, scientists only start to understand, preliminarily, the kind of neural activity that functional neuroimaging is actually measuring.&lt;/p&gt;
+
+&lt;p&gt;Instead, functional neuroimaging is a technique-driven research program, in the sense that existing techniques served as the basis for functional neuroimaging.
+But how did scientists use existing techniques to create functional neuroimaging?
+What does a technique-driven research program look like?
+In this chapter, I argue that scientists invented neuroimaging out of exploratory invention, thanks to the modularity of existing techniques.&lt;/p&gt;
+
+&lt;p&gt;The invention of neuroimaging was the result of exploratory invention.
+After World War II, institutions as the U.S. Atomic Energy Commission (AEC) and scientists worked in nuclear research faced the challenge to justify the continued existence of large scale nuclear research.
+They wanted to find exciting, valuable civilian uses of nuclear power.
+One potential direction for valuable, civilian uses of nuclear power was to use radioactive isotopes to treat or diagnose tumors.
+With the vague goal in mind, and armed with cyclotrons onsite to produce radioactive isotopes on demand, medical scientists, especially teams at Massachusetts General Hospital (MGH) and Washington University in St. Louis (WUSTL), started to play with existing techniques.
+In other words, they started exploratory invention.
+Teams at MGH and WUSTL would literally form a vague idea, put the components together, and test the new machine to see if the machine performed close to the vague idea.&lt;/p&gt;
+
+&lt;p&gt;From the exploratory invention, the first prototype of neuroimaging machine was born.
+The MGH team cobbled together some commercial components, scanned the brain of a patient suffering from brain cancer, and saw nothing.
+Not giving up, the team moved the patient off-center, made another scan, and all of a sudden they saw a shadowy region in the image &amp;ndash; exactly where the tumors were.
+The MGH team had no idea why the machine worked in unintended ways.
+But it worked.&lt;/p&gt;
+
+&lt;p&gt;The announcement of the first prototype and procedure to use it was very curious, although by no means rare in announcement of new techniques.
+The MGH team published a paper which starts by saying: &amp;ldquo;POSITRON-EMITTING ISOTOPES offer possibilities of better resolution for tumor localization&amp;rdquo;.
+In other words, they cautiously suggested that the new technique might work.
+They went on to describe the basic physics and the design of their imaging device.
+Then, after the description of their device, they had a section called &amp;ldquo;Results,&amp;rdquo; using multiple detection instruments to figure out the parameters of the device they just designed, very much like a study of an unknown phenomenon.
+In this five-page long paper, they only dedicated two paragraphs to the actual application of the machine on a real patient.
+They used Figure 7 and Figure 8 in this paper and demonstrated that the device worked, although they did not explain why or how the device worked.&lt;/p&gt;
+
+&lt;p&gt;The exploratory invention is essentially an evolutionary process.
+In the example, on the one hand, research teams had the ultimate goal to use nuclear power in some form to treat or diagnose cancer.
+In a way, the ultimate goal served as the &amp;ldquo;selective pressure&amp;rdquo;.
+On the other hand, research teams combined existing techniques based on vague ideas, and tested them to see if the new machine could help to realize their ultimate goal.
+Based on the results, scientists could improve on some of the components or swap in and out some of the components.
+In other words, research teams were trying to &amp;ldquo;mutate&amp;rdquo; their techniques to see if their techniques could further their goal.&lt;/p&gt;
+
+&lt;p&gt;The success of the exploratory invention is enabled by the modularity of the components in neuroimaging.
+Modularity is the feature of a complex, decomposable system that the system consists of components with self-contained functions\autocites{simon_architecture_1962}{wimsatt_complexity_1972}{haugeland_having_1998}.
+Those components can perform their function with the right input and output.
+Those functions can change in ways reasonably independent from other components.
+The modularity feature enables scientists to better tweak and tinker with their techniques &amp;ndash; improving on or changing one feature without needing to modify other well-functioning features, and ultimately reach their goal.&lt;/p&gt;
+
+&lt;p&gt;In this chapter, I use the early history of neuroimaging as a case study to offer an account of exploratory invention.
+Exploratory invention is a technique-driven process to create new techniques.
+Scientists bring about new techniques in exploratory invention on the basis and under the constraints not of existing theories or models, but of existing techniques and pragmatic goals.
+Within the boundary of existing techniques and pragmatic goals, scientists rely on the modularity of techniques to combine them, tweak them, and swap them in and out before finally finding the satisfactory invention.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
