@@ -1,0 +1,21 @@
++++
+event = "WISHKABIBBLE V - 2017"
+date = "2017-06-21T00:00:00-00:00"
+abstract_short = ""
+url_video = ""
+url_pdf = ""
+abstract = "In this paper, I explore how researchers in the early years of neuroimaging managed to detect and describe neural activity, without a well-formulated theory of neural activity. I argue that chained measurement was their epistemic access to an entity that they had limited knowledge of."
+location = "Shaw Nature Reserve, Gray Summit, MO"
+title = "Measuring in the Dark: Positron Emission Tomography and Neural Activation"
+event_url = ""
+url_slides = ""
+highlight = true
+math = false
+selected = false
+
+[header]
+  image = ""
+  caption = ""
+
++++
+

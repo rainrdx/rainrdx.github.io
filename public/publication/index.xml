@@ -12,5 +12,15 @@
 	<atom:link href="http://www.rickshang.com/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Exploratory Invention: The Pre-history of Positron Emission Tomography 1950s-1975</title>
+      <link>http://www.rickshang.com/publication/exploratory_invention/</link>
+      <pubDate>Tue, 13 Feb 2018 00:25:10 -0600</pubDate>
+      
+      <guid>http://www.rickshang.com/publication/exploratory_invention/</guid>
+      <description>Functional neuroimaging is not a theory-driven research program, in the sense that a systematic theory of cognition served as the basis for neuroimaging. In fact, forty years after the invention of functional neuroimaging, scientists are not much closer to a systematic theory of cognition. And after forty years of using functional neuroimaging, scientists only start to understand, preliminarily, the kind of neural activity that functional neuroimaging is actually measuring.
+Instead, functional neuroimaging is a technique-driven research program, in the sense that existing techniques served as the basis for functional neuroimaging.</description>
+    </item>
+    
   </channel>
 </rss>
